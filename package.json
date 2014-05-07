@@ -1,0 +1,26 @@
+{
+  "name": "myNodeApp",
+  "version": "0.0.1",
+  "description": "My First app in NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andresmazza/myNodeApp.git"
+  },
+  "keywords": [
+    "node",
+    "test"
+  ],
+  "author": "Andres Mazza <andres.mazza@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresmazza/myNodeApp/issues"
+  },
+  "homepage": "https://github.com/andresmazza/myNodeApp",
+  "dependencies": {
+    "connect": "^2.15.0"
+  }
+}
